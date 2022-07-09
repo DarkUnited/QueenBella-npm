@@ -1,0 +1,12 @@
+{
+    "name": "queenbella-npm",
+    "version": "1.0.0",
+    "description": "QueenBella project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "main": "./QueenBella/bot.js",
+    "scripts": {
+        "test": "supervisor -s bot.js"
+    },
+    "author": "AMS TEAM", 
+    "license": "GPL-3.0-or-later"
+
+}
